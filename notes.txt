@@ -1,0 +1,137 @@
+Technix Carousel Pics
+
+https://lh3.googleusercontent.com/iOtXDGjhYUk8pS_m7m5SxSDX4_1BT9Hm0dSLVsr8d_TVPRmlz5P2424hpsU_GOhdLOEPMzXZYr9uT4-J6wkz0uIrChN8XTNKciKzj5pZXxteaICAplt-uqAIsZzT9NWjRBdAZYXh6w=w2400
+https://lh3.googleusercontent.com/Vy5C3aBkm1VC6iu8wrhxiF-VUa4Ac3bf5qbZJ8DH-5f9XDmwcxDJzddIvSHoaGOB60wAjGozaRoqCsITSXrUOlpRVuM-9Ce2yobLZQmKtmmOJMzX9sAGZjaMLzzqi2Cvku71jP6R8Q=w2400
+https://lh3.googleusercontent.com/ZtjCNP8_MZcuXUbXmQ_0AuETA5w0Cdnsj-YlsWr6xuKb1-PfJ56M7tkfsNb2UhNx7txRaN1k1sm5VWSWqKYkK-weNf1x3frzcVhn_DejdgdNfU8v7obPCOnDMMS8RfTwTv5qEHYu8A=w2400
+https://lh3.googleusercontent.com/O_azAeSD5FjYMH81XvQdNBlfGbUbQpK3ddeiiD_eiH6x69yg29B9js7syaK8gg3c-8c5TrtxZThCV2PPckmF8Uclp74BF0B5HSbWeeu9SDO54mqgh7UEApe56kbaMAXNweVNGG8Vhg=w2400
+
+
+
+
+
+
+
+
+
+Comments::
+
+{/* <section id="sect3" className="px-4 py-8 bg-white">
+        <div className=" max-w-7xl mx-auto ">
+            <SectionHeader text="Winners of Tandav Xii" />
+            <div className="flex items-center space-x-16 md:flex-row flex-col-reverse">
+                <div className="basis-1/2">
+                    <h3 className="lg:text-5xl text-2xl font-bold mb-6">
+                        Lorem ipsum dolor sit, amet consectetur
+                        adipisicing elit.
+                    </h3>
+                    <p className="text-lg max-w-prose">
+                        Lorem ipsum dolor sit amet consectetur
+                        adipisicing elit. Earum eius laborum quis in,
+                        nostrum, ullam id, officiis odio aliquam dolorem
+                        doloribus dolor! Repudiandae eos rerum magni
+                        cupiditate, esse iure! Quibusdam tempore
+                        suscipit quam dolorem praesentium omnis
+                        excepturi. Unde rerum facilis, alias ducimus
+                        fugiat corrupti neque maiores tenetur quaerat
+                        distinctio pariatur!
+                    </p>
+                    <a
+                        href="https://photos.google.com/share/AF1QipNYb472z2MXgzwBvJ6YcOwfNFvePpSpeNajmDNA2SljHVJP61VRFhgPn8xjuprEYQ?key=T28wZ1Etb3pDOFdhN2E0YU9lT05sYXEyeTc5WXV3"
+                        className="text-blue-600 inline-block my-2"
+                        target="_blank"
+                    >
+                        View the Tandav Photos here
+                    </a>
+                </div>
+                <div className="lg:w-3/4 w-full max-w-xl mx-auto my-4">
+                    <Image
+                        src="https://i.picsum.photos/id/328/1080/920.jpg?hmac=XOQxL3Y89_v5Yr_TIrzH7hOeJsUFv6beb7qGm3ycmsE"
+                        width={1080}
+                        height={920}
+                    />
+                </div>
+            </div>
+        </div>
+    </section> */}
+
+
+
+
+{/* <section id="sect4" className="bg-gray-50 px-4 py-8 ">
+        <div className="max-w-7xl mx-auto">
+            <SectionHeader text="Technix 2022" />
+
+            <div className="flex items-center space-x-10">
+                <div className="basis-1/2 max-w-xl mx-auto my-4 block">
+                    <Image
+                        src="https://lh3.googleusercontent.com/iOtXDGjhYUk8pS_m7m5SxSDX4_1BT9Hm0dSLVsr8d_TVPRmlz5P2424hpsU_GOhdLOEPMzXZYr9uT4-J6wkz0uIrChN8XTNKciKzj5pZXxteaICAplt-uqAIsZzT9NWjRBdAZYXh6w=w2400"
+                        layout="responsive"
+                        width={1080}
+                        height={720}
+                    />
+                </div>
+                <div className="basis-1/2 text-right">
+                    <h3 className="text-5xl font-bold mb-12">
+                        Lorem ipsum dolor sit, amet consectetur
+                        adipisicing elit.
+                    </h3>
+                    <p className="text-lg max-w-prose my-4">
+                        Lorem ipsum dolor sit amet consectetur
+                        adipisicing elit. Earum eius laborum quis in,
+                        nostrum, ullam id, officiis odio aliquam dolorem
+                        doloribus dolor! Repudiandae eos rerum magni
+                        cupiditate, esse iure! Quibusdam tempore
+                        suscipit quam dolorem praesentium omnis
+                        excepturi. Unde rerum facilis, alias ducimus
+                        fugiat corrupti neque maiores tenetur quaerat
+                        distinctio pariatur!
+                    </p>
+                    <a
+                        href="https://photos.app.goo.gl/ThKMyiKfK2S5kVBP7"
+                        className="text-blue-600 inline-block my-2"
+                        target="_blank"
+                    >
+                        View the Technix Photos here
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section> */}
+
+
+
+{/* <section id="sect5" className="">
+        <div className="p-4 max-w-7xl mx-auto">
+            <SectionHeader text="Our Sponsors" />
+
+            <div className="flex items-center space-x-10">
+                <div className="basis-1/2">
+                    <h3 className="text-5xl font-bold mb-12">
+                        Lorem ipsum dolor sit, amet consectetur
+                        adipisicing elit.
+                    </h3>
+                    <p className="text-lg max-w-prose my-4">
+                        Lorem ipsum dolor sit amet consectetur
+                        adipisicing elit. Earum eius laborum quis in,
+                        nostrum, ullam id, officiis odio aliquam dolorem
+                        doloribus dolor! Repudiandae eos rerum magni
+                        cupiditate, esse iure! Quibusdam tempore
+                        suscipit quam dolorem praesentium omnis
+                        excepturi. Unde rerum facilis, alias ducimus
+                        fugiat corrupti neque maiores tenetur quaerat
+                        distinctio pariatur!
+                    </p>
+                    <a
+                        href="./sponsors"
+                        className="text-blue-600 inline-block my-2"
+                        target="_blank"
+                    >
+                        Know more about our sponsors
+                    </a>
+                </div>
+                <div className="relative basis-1/2">
+                    <Image src={sponsorsPic} layout="responsive" />
+                </div>
+            </div>
+        </div>
+    </section> */}
