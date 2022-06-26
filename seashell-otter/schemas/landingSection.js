@@ -4,12 +4,17 @@ export default {
     title: "Landing Section",
     fields: [
         {
-            name: "Title",
+            name: "title",
             type: "string",
             title: "Title",
         },
         {
-            name: "Heading",
+            name: "sectionImage",
+            type: "image",
+            title: "Section Image",
+        },
+        {
+            name: "heading",
             type: "string",
             title: "Heading",
         },
@@ -21,17 +26,12 @@ export default {
         {
             name: "link",
             type: "url",
-            title: "Title",
+            title: "Link URL",
         },
         {
             name: "linkTitle",
             type: "string",
             title: "Link Text",
         },
-        // {
-        //     name: "sectionImage",
-        //     type: "image",
-        //     title: "Section Image",
-        // },
     ],
 };

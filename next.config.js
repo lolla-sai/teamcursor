@@ -2,7 +2,11 @@
 const nextConfig = {
     reactStrictMode: true,
     images: {
-        domains: ["lh3.googleusercontent.com", "i.picsum.photos"],
+        domains: [
+            "lh3.googleusercontent.com",
+            "i.picsum.photos",
+            "cdn.sanity.io",
+        ],
     },
 };
 

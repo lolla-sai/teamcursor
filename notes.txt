@@ -135,3 +135,29 @@ Comments::
             </div>
         </div>
     </section> */}
+
+
+
+
+
+
+// <LandingPageSection
+    //     textContent={{
+    //         title: "Winners of Tandav Xii",
+    //         heading:
+    //             "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    //         textBody:
+    //             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum eius laborum quis in, nostrum, ullam id, officiis odio aliquam dolorem doloribus dolor! Repudiandae eos rerum magni cupiditate, esse iure! Quibusdam tempore suscipit quam dolorem praesentium omnis excepturi. Unde rerum facilis, alias ducimus fugiat corrupti neque maiores tenetur quaerat distinctio pariatur!",
+    //     }}
+    //     link={{
+    //         linkHref:
+    //             "https://photos.google.com/share/AF1QipNYb472z2MXgzwBvJ6YcOwfNFvePpSpeNajmDNA2SljHVJP61VRFhgPn8xjuprEYQ?key=T28wZ1Etb3pDOFdhN2E0YU9lT05sYXEyeTc5WXV3",
+    //         linkText: "View the Tandav Photos here",
+    //     }}
+    //     image={{
+    //         imageLink:
+    //             "https://i.picsum.photos/id/328/1080/920.jpg?hmac=XOQxL3Y89_v5Yr_TIrzH7hOeJsUFv6beb7qGm3ycmsE",
+    //         width: 1080,
+    //         height: 920,
+    //     }}
+    // />;
