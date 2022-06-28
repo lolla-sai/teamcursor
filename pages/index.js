@@ -3,7 +3,7 @@ import Image from "next/image";
 
 import Header from "../components/Header";
 import SectionHeader from "../components/SectionHeader";
-import LandingPageSection from "../components/landingPageSection";
+import LandingPageSection from "../components/LandingPageSection";
 import Footer from "../components/Footer";
 
 import { InstagramEmbed } from "react-social-media-embed";
